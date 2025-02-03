@@ -16,3 +16,6 @@
 ## My GitHub stats
 Yep, new account, so not very good.  
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=win-lukezhang&amp;theme=vue&amp;show_icons=true&hide_border=true" width="500"/>
+### Snake :)
+Generate code copied from @lingbopro.
+<img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/win-lukezhang/win-lukezhang/output/github-contribution-grid-snake.svg" />
