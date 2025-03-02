@@ -13,6 +13,9 @@
     - The mica will return if you double-pressed the same key on your keyboard again!
   - 🌐 Example.com is a domain that anyone can use in their projects!
     ![Example.com](https://github.com/zsr-lukezhang/zsr-lukezhang/blob/main/Images/example.com.png?raw=true)
+  - Sus things...
+    - @wyf9 's Ramdom Image API  
+      <img alt="WHY IS IT NOT WORKING BRUH" src="https://imgapi.siiway.top/image"/>
 ## My GitHub stats
 Yep, new account, so not very good.  
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=win-lukezhang&amp;theme=vue&amp;show_icons=true&hide_border=true" width="500"/>
