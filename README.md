@@ -1,6 +1,6 @@
 # Hi, welcome to my page!
 ## My public information
-- 👋 Hi, I’m @win-lukezhang.
+- 👋 Hi, I’m @NT-AUTHORITY.
 - 👀 I’m interested in WinUI dev.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on some WinUI projects.
@@ -12,7 +12,7 @@
     - It can be done if you double-pressed the Win 🪟 key on your keyboard ⌨️.
     - The mica will return if you double-pressed the same key on your keyboard again!
   - 🌐 Example.com is a domain that anyone can use in their projects!
-    ![Example.com](https://github.com/zsr-lukezhang/zsr-lukezhang/blob/main/Images/example.com.png?raw=true)
+    ![Example.com](https://github.com/NT-AUTHORITY/NT-AUTHORITY/blob/main/Images/example.com.png?raw=true)
   - Sus things...
     - @wyf9 's Ramdom Image API  
       <img alt="WHY IS IT NOT WORKING BRUH" src="https://imgapi.siiway.top/image"/>
