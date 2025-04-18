@@ -1,6 +1,6 @@
 # Hi, welcome to my page!
 ## My public information
-- 👋 Hi, I’m @NT-AUTHORITY.
+-  <img src="https://raw.githubusercontent.com/NT-AUTHORITY/NT-AUTHORITY/refs/heads/main/assets/avatar-256.png" alt="Logo" style="width: 20px; height: auto; margin: 10px;"></img> Hi, I’m @NT-AUTHORITY. 
 - 👀 I’m interested in WinUI dev.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on some WinUI projects.
