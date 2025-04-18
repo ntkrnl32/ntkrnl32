@@ -22,10 +22,10 @@ Yep, new account, so not very good.
 ### Snake :)
 Generate code copied from @lingbopro.
 <picture align="center" title="GitHub contribution grid snake animation">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NT-AUTHORITY/NT-AUTHORITY/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NT-AUTHORITY/NT-AUTHORITY/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NT-AUTHORITY/NT-AUTHORITY/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NT-AUTHORITY/NT-AUTHORITY/refs/heads/output/github-contribution-grid-snake.svg" />
   <!-- Mirror -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/lingbopro/NT-AUTHORITY/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/lingbopro/NT-AUTHORITY/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/NT-AUTHORITY/lingbopro/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.gitmirror.com/NT-AUTHORITY/NT-AUTHORITY/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.gitmirror.com/NT-AUTHORITY/NT-AUTHORITY/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/NT-AUTHORITY/NT-AUTHORITY/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
