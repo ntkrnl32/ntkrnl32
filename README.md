@@ -34,10 +34,12 @@ Generate code copied from @lingbopro.
 
 BTC / Alipay / WeChat are supported.
 
+<!--
 ### BTC
 ```
 bc1q2nxgfrxqht2y0w85ssw80nz0ufwer2x5c66ays
 ```
+-->
 
 ### AliPay
 
