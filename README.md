@@ -36,7 +36,7 @@ Generate code copied from @lingbopro.
 
 ## Donate ❤️
 
-BTC / Alipay / WeChat are supported.
+AiFaDian / Alipay / WeChat are supported.
 
 <!--
 ### BTC
@@ -55,4 +55,4 @@ bc1q2nxgfrxqht2y0w85ssw80nz0ufwer2x5c66ays
 
 ### IFDIAN
 
-[ntkrnl32](https://ifdian.net/a/ntkrnl32]
+[ntkrnl32](https://ifdian.net/a/ntkrnl32)
