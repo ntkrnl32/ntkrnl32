@@ -16,11 +16,11 @@
     ![Example.com](https://github.com/ntkrnl32/ntkrnl32/blob/main/Images/example.com.png?raw=true)
   - Sus things...
     - @wyf9 's Ramdom Image API  
-      <img alt="WHY IS IT NOT WORKING BRUH" src="https://imgapi.siiway.top/image"/>
+      <img alt="WHY IS IT NOT WORKING BRUH" src="https://imgapi-origin.siiway.top/image"/>
 ## My GitHub stats 😲
 
 Not good LOL  
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ntkrnl32&amp;theme=vue&amp;show_icons=true&hide_border=true" width="500"/>
+<img alt="GitHub stats" src="https://gh-readme-stats.siiway.top/api?username=ntkrnl32&amp;theme=vue&amp;show_icons=true&hide_border=true" width="500"/>
 
 ### Snake :)
 
